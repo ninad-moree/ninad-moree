@@ -40,7 +40,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :cricket_game: I'm really into cricket and love playing it!
 - :man_technologist: Here is a list of my different projects: <a href="https://github.com/ninad-moree?tab=repositories">MyProjects</a >
 - :seedling: Exploring Web Development and AI/ML.
-- :zap: In my free time, I solve problems on Leetcode, Codechef and watch some animes.
+- :zap: In my free time, I like to solve problems on Leetcode, Codechef and watch animes.
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ninad-red?style=flat&logo=Gmail&logoColor=white)](mailto:ninadyogeshmore@gmail.com)
 
 ---
