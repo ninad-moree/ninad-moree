@@ -4,7 +4,8 @@
    # Hey 👋, I'm Ninad More.
   
   <!--- ##### The gify on top ##### --->
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="150"/>
+  <img src="https://i.pinimg.com/564x/b5/95/e5/b595e503a0d6bdc50fe89ac05d162e87.jpg" width="150" />
+  <!--- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="150"/>  -->
   <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
 
   <!--- ##### Social Handles ##### --->
