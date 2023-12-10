@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-   # Hey 👋, I'm Ninad More.
+   # Hi 👋, I'm Ninad More.
   
   <!--- ##### The gify on top ##### --->
   <img src="https://i.pinimg.com/564x/b5/95/e5/b595e503a0d6bdc50fe89ac05d162e87.jpg" width="150" />
@@ -85,3 +85,8 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ninad-moree&theme=gruvbox)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninad-moree&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🤝 Why not Connect ? :
+
