@@ -67,7 +67,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### 🔥: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ninad-moree&theme=gruvbox)](https://git.io/streak-stats)
 
