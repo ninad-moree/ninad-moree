@@ -31,7 +31,7 @@
 
 ---
 
-### 👨‍💻: About Me :
+### 👨‍💻 About Me :
 
 I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🔭 I’m a Computer Engineering student at PICT and contributing to frontend and backend for building android apps.
@@ -43,7 +43,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### 🛠️: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
