@@ -31,7 +31,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### 👨‍💻: About Me :
 
 I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m a Computer Engineering student at PICT and contributing to frontend and backend for building android apps.
@@ -43,7 +43,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -64,7 +64,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### :fire: My Stats :
+### 🔥: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ninad-moree&theme=gruvbox)](https://git.io/streak-stats)
 
