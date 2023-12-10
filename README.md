@@ -34,12 +34,12 @@
 ### 👨‍💻: About Me :
 
 I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a Computer Engineering student at PICT and contributing to frontend and backend for building android apps.
-- :cricket_game: I'm really into cricket and love playing it!
-- :man_technologist: Here is a list of my different projects: <a href="https://github.com/ninad-moree?tab=repositories">MyProjects</a >
-- :seedling: Exploring Web Development and AI/ML.
-- :zap: In my free time, I like to solve problems on Leetcode, Codechef and watch animes.
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ninad-red?style=flat&logo=Gmail&logoColor=white)](mailto:ninadyogeshmore@gmail.com)
+- 🔭 I’m a Computer Engineering student at PICT and contributing to frontend and backend for building android apps.
+- 🏏 I'm really into cricket and love playing it!
+- 👨‍💻 Here is a list of my different projects: <a href="https://github.com/ninad-moree?tab=repositories">MyProjects</a >
+- 🌱 Exploring Web Development and AI/ML.
+- ⚡ In my free time, I like to solve problems on Leetcode, Codechef and watch animes.
+- 📬 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ninad-red?style=flat&logo=Gmail&logoColor=white)](mailto:ninadyogeshmore@gmail.com)
 
 ---
 
