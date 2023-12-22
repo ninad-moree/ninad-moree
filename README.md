@@ -88,6 +88,9 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninad-moree&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### 📈 Activity Graph :
 <!--
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ninad-moree&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 -->
@@ -99,5 +102,5 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ninad-moree&bg_color=282828&color=ebdbb2&line=fe8019&point=fb4934&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ninad-moree&bg_color=282828&color=ebdbb2&line=fe8019&point=fb4934&hide_border=true" />
 </a>
