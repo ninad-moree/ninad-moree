@@ -87,3 +87,9 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ninad-moree&theme=gruvbox)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninad-moree&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ninad-moree&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ninad-moree&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
