@@ -35,10 +35,11 @@
 
 I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🔭 I’m a Computer Engineering student at PICT and contributing to frontend and backend for building android apps.
-- 🏏 I'm really into cricket and love playing it!
+- 📱 I'am a fullstack flutter app developer
 - 👨‍💻 Here is a list of my different projects: <a href="https://github.com/ninad-moree?tab=repositories">MyProjects</a >
 - 🌱 Exploring Web Development and AI/ML.
 - ⚡ In my free time, I like to solve problems on Leetcode, Codechef and watch animes.
+- 🏏 I'm really into cricket and love playing it!
 - 📬 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ninad-red?style=flat&logo=Gmail&logoColor=white)](mailto:ninadyogeshmore@gmail.com)
 
 ---
