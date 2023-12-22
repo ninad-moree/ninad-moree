@@ -8,15 +8,30 @@
   
   <!--- ##### Social Handles ##### --->
   <div id="badges" style="display: flex; justify-content: center;">
+    <a href="https://www.linkedin.com/in/ninad-more-65a942231/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" />
+    </a>
+    <!--
     <a href="https://www.linkedin.com/in/ninad-more-65a942231/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
+    -->
+    <a href="https://instagram.com/__ninad._18?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram Icon" />
+    </a>
+    <!--
     <a href="https://instagram.com/__ninad._18?igshid=OGQ5ZDc2ODk2ZA==">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
     </a>
+    -->
+    <a href="https://leetcode.com/Kaneki183/" target="_blank">
+      <img src="https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job" alt="LeetCode Icon" />
+    </a>
+    <!--
     <a href="https://leetcode.com/Kaneki183/">
       <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge" />
     </a>
+    -->
   </div>
 
   <!--- ##### Profile View Counter ##### --->
