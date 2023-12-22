@@ -1,5 +1,6 @@
+<!--- ##### HEADER SECTION ##### --->
 <div id="header" align="center">
-
+  <!--- ##### Banner on top ##### --->
   <img alt="banner" src="assets/readme banner.png" width="100%"/>
   
    # Hi 👋, I'm Ninad More.
@@ -22,16 +23,18 @@
 
   <!--- ##### Profile View Counter ##### --->
   <img src="https://komarev.com/ghpvc/?username=ninad-moree&style=flat-square&color=blue" alt=""/>
-  
 </div>
 
 
+<!--- ##### GIF SECTION ##### --->
+<!-- Big Coding Gif -->
 <div align="center">
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="650" height="450"/>
 </div>
 
 ---
 
+<!--- ##### ABOUT ME SECTION ##### --->
 ### 👨‍💻 About Me :
 
 I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -45,6 +48,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
+<!--- ##### PROJECTS SECTION ##### --->
 ### 🚀 Projects :
 
 - 📚 <a href="https://github.com/ninad-moree/KodeKraken">Kodekraken</a> - Flutter app for students to submit there code with versioning and a code editor to write the code.
@@ -59,6 +63,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
+<!--- ##### LANGUAGES SECTION ##### --->
 ### 🛠️ Languages and Tools :
 
 <table>
@@ -131,9 +136,9 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
   </tr>
 </table>
 
-
 ---
 
+<!--- ##### STATS SECTION ##### --->
 ### 🔥 My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ninad-moree&theme=gruvbox)](https://git.io/streak-stats)
@@ -142,12 +147,12 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
+<!--- ##### GRAPH SECTION ##### --->
 ### 📈 Activity Graph :
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ninad-moree&bg_color=282828&color=ebdbb2&line=fe8019&point=fb4934&hide_border=true" />
 </a>
-
 
 
 <!-- SOME USEFUL TOOLS AND IMAGES FOR README-->
