@@ -1,5 +1,6 @@
-
 <div id="header" align="center">
+
+  <img alt="banner" src="assets/readme banner.png" width="100%"/>
   
    # Hi 👋, I'm Ninad More.
   
@@ -95,6 +96,8 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ninad-moree&bg_color=282828&color=ebdbb2&line=fe8019&point=fb4934&hide_border=true" />
 </a>
+
+
 
 <!-- SOME USEFUL TOOLS AND IMAGES FOR README-->
 
