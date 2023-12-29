@@ -104,7 +104,10 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/><br/>
       NodeJS
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="40" height="40"/><br/>
+      QT
+    </td>
   </tr>
   <tr>
     <td align="center">
