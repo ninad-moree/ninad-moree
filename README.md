@@ -64,7 +64,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 <!--- ##### LANGUAGES SECTION ##### --->
-### 🛠️ IDE and Tools :
+### 🖥️ IDE and Tools :
 
 <table>
   <tr>
