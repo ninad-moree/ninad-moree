@@ -69,6 +69,32 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 <table>
   <tr>
     <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/><br/>
+      VS Code
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/><br/>
+      Pycharm
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/><br/>
+      Anaconda
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="JupyterNotebook" alt="JupyterNotebook" width="40" height="40"/><br/>
+      Jupyter
+    </td>
+  </tr>
+</table>
+
+---
+
+<!--- ##### LANGUAGES SECTION ##### --->
+### 🛠️ Languages and Tools :
+
+<table>
+  <tr>
+    <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/><br/>
       Flutter
     </td>
