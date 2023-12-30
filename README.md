@@ -73,7 +73,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       VS Code
     </td>
     <td align="center">
-      <img src="assets/icons8-pycharm-48.png" title="Pycharm" alt="Pycharm" width="40" height="40"/><br/>
+      <img src="assets/Pycharm_Icon.png" title="Pycharm" alt="Pycharm" width="40" height="40"/><br/>
       Pycharm
     </td>
     <td align="center">
