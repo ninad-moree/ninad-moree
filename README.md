@@ -6,7 +6,7 @@
    # Hi 👋, I'm Ninad More.
   
   <!--- ##### Coder on top ##### --->
-  <img src="https://i.pinimg.com/564x/b5/95/e5/b595e503a0d6bdc50fe89ac05d162e87.jpg" width="150" />
+  <img src="assets/coder_profile_pic_2.jpg" width="150" />
   
   <!--- ##### Social Handles ##### --->
   <p align="center">
