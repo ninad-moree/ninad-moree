@@ -29,7 +29,7 @@
 <!--- ##### GIF SECTION ##### --->
 <!-- Big Coding Gif -->
 <div align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="650" height="450"/>
+  <img src="assets/gifs/MainGig.gif" width="650" height="450"/>
 </div>
 
 ---
