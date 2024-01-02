@@ -29,7 +29,7 @@
 <!--- ##### GIF SECTION ##### --->
 <!-- Big Coding Gif -->
 <div align="center">
-  <img src="assets/gifs/Designer.gif" width="650" height="450"/>
+  <img src="assets/gifs/Designer.gif" width="800"/>
 </div>
 
 ---
