@@ -60,6 +60,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 - 📝 <a href="https://github.com/ninad-moree/TodoApp">Todo</a> - A simple todo app which keeps the track of all the things you have to do.
 - 🎵 <a href="https://github.com/ninad-moree/SpotifyClone">Spotify Clone</a> - A minimilistic spotify clone built using javascript.
 - 👨🏻‍💻 <a href="https://github.com/ninad-moree/Portfolio">Portfolio</a> - A simple portfolio website designed using reactjs.
+- 🛍️ <a href="https://github.com/ninad-moree/E-Commerce">E-Comm</a> - A full-stack flutter e-commerce app using firebase, with google sign in and getx state management. 
 
 ---
 
