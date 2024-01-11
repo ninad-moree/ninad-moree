@@ -51,7 +51,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 <!--- ##### PROJECTS SECTION ##### --->
 ### 🚀 Projects :
 
-- 👨🏻‍💻 <a href="https://github.com/ninad-moree/MyPortfolio/tree/main/Portfolio-master">Kodekraken</a> - Here is my Portfolio.
+- 👨🏻‍💻 <a href="https://github.com/ninad-moree/MyPortfolio/tree/main/Portfolio-master">My Portfolio</a> - Here is my Portfolio.
 - 📚 <a href="https://github.com/ninad-moree/KodeKraken">Kodekraken</a> - Flutter app for students to submit there code with versioning and a code editor to write the code.
 - 🎬 <a href="https://github.com/ninad-moree/MovieBook">Moviebook</a> - An app to search trending, popular and upcoming movie.
 - 🎥 <a href="https://github.com/ninad-moree/MovieRecommender">MovieRecommender</a> - Simple movie recommender system developed in python.
