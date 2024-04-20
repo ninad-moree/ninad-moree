@@ -52,18 +52,17 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### 🚀 Projects :
 
 - 👨🏻‍💻 <a href="https://github.com/ninad-moree/MyPortfolio/tree/main/Portfolio-master">My Portfolio</a> - Here is my Portfolio.
+- 💊 <a href="https://github.com/ninad-moree/MedEzz">MedEzz</a> - A mobile app for appointment booking and dynamic communication built during TechFiesta hackathon. 
 - 📚 <a href="https://github.com/ninad-moree/KodeKraken">Kodekraken</a> - Flutter app for students to submit there code with versioning and a code editor to write the code.
+- 💱 <a href="https://github.com/ninad-moree/PICT-Team16-CurrencyFX">CurrencyFx</a> - Flutter app for showing currency exchange rates built during a hackathon conducted by Northern Trust.
 - 🎬 <a href="https://github.com/ninad-moree/MovieBook">Moviebook</a> - An app to search trending, popular and upcoming movie.
+- 🛍️ <a href="https://github.com/ninad-moree/E-Commerce">E-Comm</a> - A full-stack flutter e-commerce app using firebase, with google sign in and getx state management.
 - 🎥 <a href="https://github.com/ninad-moree/MovieRecommender">MovieRecommender</a> - Simple movie recommender system developed in python.
 - ⚛️ <a href="https://github.com/ninad-moree/BankApp">BankApp</a> - Frontend web app built using react.
 - 📱 <a href="https://github.com/ninad-moree/Sociopedia">Sociopedia</a> - Fullstack web app for socio freaks who can post their images built using react for frontend and nodejs as backend.
-- 💱 <a href="https://github.com/ninad-moree/PICT-Team16-CurrencyFX">CurrencyFx</a> - Flutter app for showing currency exchange rates built during a hackathon conducted by Northern Trust.
 - 📝 <a href="https://github.com/ninad-moree/TodoApp">Todo</a> - A simple todo app which keeps the track of all the things you have to do.
 - 🎵 <a href="https://github.com/ninad-moree/SpotifyClone">Spotify Clone</a> - A minimilistic spotify clone built using javascript.
-- 👨🏻‍💻 <a href="https://github.com/ninad-moree/Portfolio">Portfolio</a> - A simple portfolio website designed using reactjs.
-- 🛍️ <a href="https://github.com/ninad-moree/E-Commerce">E-Comm</a> - A full-stack flutter e-commerce app using firebase, with google sign in and getx state management.
-- 💊 <a href="https://github.com/ninad-moree/MedEzz">MedEzz</a> - A mobile app for appointment booking and dynamic communication built during TechFiesta hackathon. 
-
+  
 ---
 
 <!--- ##### LANGUAGES SECTION ##### --->
