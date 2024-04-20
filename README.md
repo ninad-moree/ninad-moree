@@ -90,6 +90,10 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/><br/>
       AndroidStudio
     </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/><br/>
+      Postman
+    </td>
   </tr>
 </table>
 
