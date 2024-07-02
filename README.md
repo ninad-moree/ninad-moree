@@ -3,7 +3,7 @@
   <!--- ##### Banner on top ##### --->
   <img alt="banner" src="assets/readme banner.png" width="100%"/>
   
-   # Hi 👋, I'm Ninad More.
+   # 👋 Hi, I'm Ninad More.
   
   <!--- ##### Coder on top ##### --->
   <img src="assets/images/coder_profile_pic_2.jpg" width="150" />
