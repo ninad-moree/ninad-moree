@@ -68,6 +68,9 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 #### Machine Learning
 - 🎥 <a href="https://github.com/ninad-moree/MovieRecommender">MovieRecommender</a> - Simple movie recommender system developed in python.
 
+#### Java
+- ☕ <a href="https://github.com/ninad-moree/CafeManagement-Backend">Cafe Management</a> - Cafe Mangement's backend built using java.
+
 ---
 
 <!--- ##### LANGUAGES SECTION ##### --->
