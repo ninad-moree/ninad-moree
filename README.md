@@ -155,7 +155,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       ReactJS
     </td>
      <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="NextJs" alt="nextjs" width="40" height="40"/><br/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="nextjs" width="40" height="40"/><br/>
       NextJs
     </td>
   </tr>
