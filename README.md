@@ -137,8 +137,8 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       Firebase
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/><br/>
-      CSS
+      <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/><br/>
+      Kotlin
     </td>
   </tr>
   <tr>
@@ -154,9 +154,9 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/><br/>
       ReactJS
     </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/><br/>
-      NodeJS
+     <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="NextJs" alt="nextjs" width="40" height="40"/><br/>
+      NextJs
     </td>
   </tr>
   <tr>
@@ -165,16 +165,16 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       HTML
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="40" height="40"/><br/>
-      QT
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40"/><br/>
+      Tailwind
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/><br/>
-      Git
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/><br/>
+      CSS
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/><br/>
-      MongoDB
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/><br/>
+      NodeJS
     </td>
   </tr>
   <tr>
@@ -182,6 +182,20 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/><br/>
       MySQL
     </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/><br/>
+      MongoDB
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/><br/>
+      Spring
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/><br/>
+      Git
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/><br/>
       C++
@@ -194,23 +208,9 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/><br/>
       Java
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/><br/>
-      Spring
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="NextJs" alt="nextjs" width="40" height="40"/><br/>
-      NextJs
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/><br/>
-      Kotlin
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40"/><br/>
-      Tailwind
+      <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="40" height="40"/><br/>
+      QT
     </td>
   </tr>
 </table>
