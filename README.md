@@ -114,10 +114,6 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/><br/>
       Gitlab
     </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/><br/>
-      Spring
-    </td>
   </tr>
 </table>
 
@@ -197,6 +193,20 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/><br/>
       Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/><br/>
+      Spring
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="NextJs" alt="nextjs" width="40" height="40"/><br/>
+      NextJs
+    </td>
+    <td align="center">
+    </td>
+    <td align="center">
     </td>
   </tr>
 </table>
