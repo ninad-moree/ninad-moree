@@ -138,7 +138,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/><br/>
-      CSS3
+      CSS
     </td>
   </tr>
   <tr>
@@ -162,7 +162,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
   <tr>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/><br/>
-      HTML5
+      HTML
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="40" height="40"/><br/>
@@ -209,6 +209,8 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       Kotlin
     </td>
     <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40"/><br/>
+      Tailwind
     </td>
   </tr>
 </table>
