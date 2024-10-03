@@ -205,6 +205,8 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       NextJs
     </td>
     <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/><br/>
+      Kotlin
     </td>
     <td align="center">
     </td>
