@@ -67,6 +67,8 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 #### Machine Learning
 - 🎥 <a href="https://github.com/ninad-moree/MovieRecommender">MovieRecommender</a> - Simple movie recommender system developed in python.
+- 🧬 <a href="https://github.com/ninad-moree/DiseasePrediction">Disease Prediction</a> - Predicting heart related disease using KNN and Random forest classifier.
+- 🔁 <a href="https://github.com/ninad-moree/TwitterSentimentAnalysis">Twitter Sentiment Analysis</a> - Classifying the tweets into positive and negative.
 
 #### Java
 - ☕ <a href="https://github.com/ninad-moree/CafeManagement-Backend">Cafe Management</a> - Cafe Mangement's backend built using java.
