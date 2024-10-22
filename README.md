@@ -51,12 +51,6 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 <!--- ##### PROJECTS SECTION ##### --->
 ## 🚀 Projects :
 
-#### Web Development
-- 👨🏻‍💻 <a href="https://github.com/ninad-moree/MyPortfolio/tree/main/Portfolio-master">My Portfolio</a> - Here is my Portfolio.
-- ⚛️ <a href="https://github.com/ninad-moree/BankApp">BankApp</a> - Frontend web app built using react.
-- 📱 <a href="https://github.com/ninad-moree/Sociopedia">Sociopedia</a> - Fullstack web app for socio freaks who can post their images built using react for frontend and nodejs as backend.
-- 🎵 <a href="https://github.com/ninad-moree/SpotifyClone">Spotify Clone</a> - A minimilistic spotify clone built using javascript.
-
 #### App Development
 - 💊 <a href="https://github.com/ninad-moree/MedEzz">MedEzz</a> - A mobile app for appointment booking and dynamic communication built during TechFiesta hackathon. 
 - 📚 <a href="https://github.com/ninad-moree/KodeKraken">Kodekraken</a> - Flutter app for students to submit there code with versioning and a code editor to write the code.
@@ -65,13 +59,19 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 - 🛍️ <a href="https://github.com/ninad-moree/E-Commerce">E-Comm</a> - A full-stack flutter e-commerce app using firebase, with google sign in and getx state management.
 - 📝 <a href="https://github.com/ninad-moree/TodoApp">Todo</a> - A simple todo app which keeps the track of all the things you have to do.
 
+#### Web Development
+- 👨🏻‍💻 <a href="https://github.com/ninad-moree/MyPortfolio/tree/main/Portfolio-master">My Portfolio</a> - Here is my Portfolio.
+- ⚛️ <a href="https://github.com/ninad-moree/BankApp">BankApp</a> - Frontend web app built using react.
+- 📱 <a href="https://github.com/ninad-moree/Sociopedia">Sociopedia</a> - Fullstack web app for socio freaks who can post their images built using react for frontend and nodejs as backend.
+- 🎵 <a href="https://github.com/ninad-moree/SpotifyClone">Spotify Clone</a> - A minimilistic spotify clone built using javascript.
+
+#### Java
+- ☕ <a href="https://github.com/ninad-moree/CafeManagement-Backend">Cafe Management</a> - Cafe Mangement's backend built using java.
+
 #### Machine Learning
 - 🎥 <a href="https://github.com/ninad-moree/MovieRecommender">MovieRecommender</a> - Simple movie recommender system developed in python.
 - 🧬 <a href="https://github.com/ninad-moree/DiseasePrediction">Disease Prediction</a> - Predicting heart related disease using KNN and Random forest classifier.
 - 🔁 <a href="https://github.com/ninad-moree/TwitterSentimentAnalysis">Twitter Sentiment Analysis</a> - Classifying the tweets into positive and negative.
-
-#### Java
-- ☕ <a href="https://github.com/ninad-moree/CafeManagement-Backend">Cafe Management</a> - Cafe Mangement's backend built using java.
 
 ---
 
