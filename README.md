@@ -6,21 +6,8 @@
    # 👋 Hi, I'm Ninad More.
   
   <!--- ##### Coder on top ##### --->
-  <img src="assets/images/coder_profile_pic_2.jpg" width="150" />
+  <!-- <img src="assets/images/coder_profile_pic_2.jpg" width="150" /> --->
   
-  <!--- ##### Social Handles ##### --->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ninad-more-65a942231/">
-      <img alt="linkedIn" src="assets/svg/linkedin.svg"/>
-    </a>
-    <a href="https://instagram.com/__ninad._18?igshid=OGQ5ZDc2ODk2ZA==">
-      <img alt="instagram" src="assets/svg/instagram.svg"/>
-    </a>
-    <a href="https://leetcode.com/Kaneki183/">
-      <img alt="leetcode" src="assets/svg/leetcode.svg"/>
-    </a>
-  </p>
-
   <!--- ##### Profile View Counter ##### --->
   <img src="https://komarev.com/ghpvc/?username=ninad-moree&style=flat-square&color=blue" alt=""/>
 </div>
@@ -239,6 +226,19 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ninad-moree&bg_color=282828&color=ebdbb2&line=fe8019&point=fb4934&hide_border=true" />
 </a>
 
+<!--- ##### SOCIALS SECTION --->
+## Let's Connect :
+<p>
+  <a href="https://www.linkedin.com/in/ninad-more-65a942231/">
+    <img alt="linkedIn" src="assets/svg/linkedin.svg"/>
+  </a>
+  <a href="https://instagram.com/__ninad._18?igshid=OGQ5ZDc2ODk2ZA==">
+    <img alt="instagram" src="assets/svg/instagram.svg"/>
+  </a>
+  <a href="https://leetcode.com/Kaneki183/">
+    <img alt="leetcode" src="assets/svg/leetcode.svg"/>
+  </a>
+</p>
 
 <!-- SOME USEFUL TOOLS AND IMAGES FOR README-->
 
