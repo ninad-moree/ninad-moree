@@ -227,7 +227,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 </a>
 
 <!--- ##### SOCIALS SECTION --->
-## Let's Connect :
+## 🐦 Let's Connect :
 <p>
   <a href="https://www.linkedin.com/in/ninad-more-65a942231/">
     <img alt="linkedIn" src="assets/images/linkedIn.png" width="75" height="40"/>
