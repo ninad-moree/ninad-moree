@@ -235,36 +235,9 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
   <a href="https://instagram.com/__ninad._18?igshid=OGQ5ZDc2ODk2ZA==">
     <img alt="instagram" src="assets/svg/instagram.svg"/>
   </a>
+  <!---
   <a href="https://leetcode.com/Kaneki183/">
     <img alt="leetcode" src="assets/svg/leetcode.svg"/>
   </a>
+  --->
 </p>
-
-<!-- SOME USEFUL TOOLS AND IMAGES FOR README-->
-
-<!-- 
-------------------
-1 - SOCIAL HANDLES
-------------------
-<div id="badges" style="display: flex; justify-content: center;">
-  <a href="https://www.linkedin.com/in/ninad-more-65a942231/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://instagram.com/__ninad._18?igshid=OGQ5ZDc2ODk2ZA==">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-  <a href="https://leetcode.com/Kaneki183/">
-    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge" />
-  </a>
-</div>
-
--------------------
-2 - ACTIVITY GRAPH
--------------------
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ninad-moree&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ninad-moree&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a>
-
--->
