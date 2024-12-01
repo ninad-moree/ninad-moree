@@ -7,9 +7,6 @@
   
   <!--- ##### Coder on top ##### --->
   <!-- <img src="assets/images/coder_profile_pic_2.jpg" width="150" /> --->
-  
-  <!--- ##### Profile View Counter ##### --->
-  <img src="https://komarev.com/ghpvc/?username=ninad-moree&style=flat-square&color=blue" alt=""/>
 </div>
 
 
@@ -240,4 +237,10 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
     <img alt="leetcode" src="assets/svg/leetcode.svg"/>
   </a>
   --->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ninad-moree&style=flat-square&color=blue" alt="" width="250" height="45"/>
 </p>
