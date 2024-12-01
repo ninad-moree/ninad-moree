@@ -230,10 +230,10 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 ## Let's Connect :
 <p>
   <a href="https://www.linkedin.com/in/ninad-more-65a942231/">
-    <img alt="linkedIn" src="assets/svg/linkedin.svg"/>
+    <img alt="linkedIn" src="assets/images/linkedIn.png" width="75" height="40"/>
   </a>
   <a href="https://instagram.com/__ninad._18?igshid=OGQ5ZDc2ODk2ZA==">
-    <img alt="instagram" src="assets/svg/instagram.svg"/>
+    <img alt="instagram" src="assets/images/insta.png" width="40" height="40"/>
   </a>
   <!---
   <a href="https://leetcode.com/Kaneki183/">
