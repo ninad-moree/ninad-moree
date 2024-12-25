@@ -241,6 +241,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
+<!--- ##### VISITORS SECTION --->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ninad-moree&style=flat-square&color=blue" alt="" width="250" height="45"/>
+  <img src="https://komarev.com/ghpvc/?username=ninad-moree&style=flat-square&color=blue" alt="" width="200" height="35"/>
 </p>
