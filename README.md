@@ -53,6 +53,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 #### Java
 - ☕ <a href="https://github.com/ninad-moree/CafeManagement-Backend">Cafe Management</a> - Cafe Mangement's backend built using java.
 - 🏨 <a href="https://github.com/ninad-moree/Roomwiz-Backend">RoomWiz</a> - Hotel Management system for booking room.
+- 🛒 <a href="https://github.com/ninad-moree/QuickCart">QucikCart</a> - E commerce application's backend.
 
 #### Machine Learning
 - 🎥 <a href="https://github.com/ninad-moree/MovieRecommender">MovieRecommender</a> - Simple movie recommender system developed in python.
