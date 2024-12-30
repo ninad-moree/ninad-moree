@@ -44,7 +44,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 - 📝 <a href="https://github.com/ninad-moree/TodoApp">Todo</a> - A simple todo app which keeps the track of all the things you have to do.
 
 #### Web Development
-- 👨🏻‍💻 <a href="https://github.com/ninad-moree/MyPortfolio/tree/main/Portfolio-master">My Portfolio</a> - Here is my Portfolio.
+- 👨🏻‍💻 <a href="https://github.com/ninad-moree/MyPortfolio/tree/main/Portfolio-master">My Portfolio</a> - Personal Portfolio website.
 - ⚛️ <a href="https://github.com/ninad-moree/BankApp">BankApp</a> - Frontend web app built using react.
 - 📱 <a href="https://github.com/ninad-moree/Sociopedia">Sociopedia</a> - Fullstack web app for socio freaks who can post their images built using react for frontend and nodejs as backend.
 - 🎵 <a href="https://github.com/ninad-moree/SpotifyClone">Spotify Clone</a> - A minimilistic spotify clone built using javascript.
