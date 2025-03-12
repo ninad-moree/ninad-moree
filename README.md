@@ -48,7 +48,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 - ⚛️ <a href="https://github.com/ninad-moree/BankApp">BankApp</a> - Frontend web app built using react.
 - 📱 <a href="https://github.com/ninad-moree/Sociopedia">Sociopedia</a> - Fullstack web app for socio freaks who can post their images built using react for frontend and nodejs as backend.
 - 🎵 <a href="https://github.com/ninad-moree/SpotifyClone">Spotify Clone</a> - A minimilistic spotify clone built using javascript.
-- 🏨 <a href="https://github.com/ninad-moree/Roomwiz-Frontend">Roowiz</a> - A hotel booking app.
+- 🏨 <a href="https://github.com/ninad-moree/Roomwiz-Frontend">Roomwiz</a> - A hotel booking app.
 
 #### Java
 - ☕ <a href="https://github.com/ninad-moree/CafeManagement-Backend">Cafe Management</a> - Cafe Mangement's backend built using java.
