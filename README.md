@@ -233,11 +233,6 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
   <a href="https://instagram.com/__ninad._18?igshid=OGQ5ZDc2ODk2ZA==">
     <img alt="instagram" src="assets/images/insta.png" width="40" height="40"/>
   </a>
-  <!---
-  <a href="https://leetcode.com/Kaneki183/">
-    <img alt="leetcode" src="assets/svg/leetcode.svg"/>
-  </a>
-  --->
 </p>
 
 ---
