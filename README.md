@@ -60,6 +60,33 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔁 <a href="https://github.com/ninad-moree/TwitterSentimentAnalysis">Twitter Sentiment Analysis</a> - Classifying the tweets into positive and negative.
 
 ---
+## 🎓 PICT Course Work :
+
+#### Fourth Year
+- <a href="https://github.com/ninad-moree/BE-Sem-8/tree/main/LP-5/DL">Deep Learning (DL)</a>
+- <a href="https://github.com/ninad-moree/BE-Sem-8/tree/main/LP-5/HPC">High Performance Computing (HPC)</a>
+- <a href="https://github.com/ninad-moree/BE-Sem-7/tree/main/LP-3/BT">Blockchain Technology (BT)</a>
+- <a href="https://github.com/ninad-moree/BE-Sem-7/tree/main/LP-3/DAA">Design & Analysis of Algorithms (DAA)</a>
+- <a href="https://github.com/ninad-moree/BE-Sem-7/tree/main/LP-3/ML">Machine Learning (ML)</a>
+- <a href="https://github.com/ninad-moree/BE-Sem-7/tree/main/LP-4">Cyber Security and Information Retrieval (LP-4)</a>
+
+#### Third Year
+- <a href="https://github.com/ninad-moree/TE-Sem-6/blob/main/DSBDAL">Data Science and Big Data Analytics (DSBDAL)</a>
+- <a href="https://github.com/ninad-moree/TE-Sem-6/blob/main/WTL">Web Technology Lab (WTL)</a>
+- <a href="https://github.com/ninad-moree/TE-Sem-6/tree/main/LP-2/Artificial%20Intelligence">Artificial Intelligence (AI)</a>
+- <a href="https://github.com/ninad-moree/TE-Sem-6/tree/main/LP-2/Cloud%20Computing">Cloud Computing</a>
+- <a href="https://github.com/ninad-moree/TE-Sem-5/blob/main/DBMS">Database Management Systems (DBMSL)</a>
+- <a href="https://github.com/ninad-moree/TE-Sem-5/blob/main/CNS">Computer Networks and Security (CNSL)</a>
+- <a href="https://github.com/ninad-moree/TE-Sem-5/tree/main/LP-1">System Proframming + Operating System + Distributed System</a>
+
+#### Second Year
+- <a href="https://github.com/ninad-moree/SE-Sem-4/blob/main/DSA">Data Structure and Algorithms Laboratory (DSAL)</a>
+- <a href="https://github.com/ninad-moree/SE-Sem-4/blob/main/MP">Microprocessor Laboratory (MPL)</a>
+- <a href="https://github.com/ninad-moree/SE-Sem-3/tree/main/OOP%20Assignments">Object Oriented Programming Laboratory (OOP)</a>
+- <a href="https://github.com/ninad-moree/SE-Sem-3/tree/main/CG%20Assignments">Computer Graphics Laboratory (CG)</a>
+- <a href="https://github.com/ninad-moree/SE-Sem-3/tree/main/DSL%20Assignments">Fundamentals of Data Structure Laboratory (FDS)</a>
+
+---
 
 <!--- ##### LANGUAGES SECTION ##### --->
 ## 🖥️ IDE and Tools :
