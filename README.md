@@ -77,7 +77,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - <a href="https://github.com/ninad-moree/TE-Sem-6/tree/main/LP-2/Cloud%20Computing">Cloud Computing</a>
 - <a href="https://github.com/ninad-moree/TE-Sem-5/blob/main/DBMS">Database Management Systems (DBMSL)</a>
 - <a href="https://github.com/ninad-moree/TE-Sem-5/blob/main/CNS">Computer Networks and Security (CNSL)</a>
-- <a href="https://github.com/ninad-moree/TE-Sem-5/tree/main/LP-1">System Proframming + Operating System + Distributed System</a>
+- <a href="https://github.com/ninad-moree/TE-Sem-5/tree/main/LP-1">System Proframming + Operating System + Distributed System (LP-1)</a>
 
 #### Second Year
 - <a href="https://github.com/ninad-moree/SE-Sem-4/blob/main/DSA">Data Structure and Algorithms Laboratory (DSAL)</a>
