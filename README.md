@@ -21,13 +21,10 @@
 <!--- ##### ABOUT ME SECTION ##### --->
 ## 👨‍💻 About Me :
 
-I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🔭 I’m a Computer Engineering student at PICT and contributing to frontend and backend for building android apps.
-- 📱 I'am a fullstack flutter app developer
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India and aslo a Software Engineer.
+- 📱 I'm proficient in app and web development.
 - 👨‍💻 Here is a list of my different projects: <a href="https://github.com/ninad-moree?tab=repositories">My Projects</a >
-- 🌱 Exploring Web Development and AI/ML.
-- ⚡ In my free time, I like to solve problems on Leetcode, Codechef and watch animes.
-- 🏏 I'm really into cricket and love playing it!
+- 🌱 Exploring AI/ML.
 - 📬 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ninad-red?style=flat&logo=Gmail&logoColor=white)](mailto:ninadyogeshmore@gmail.com)
 
 ---
@@ -51,7 +48,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 - 🏨 <a href="https://github.com/ninad-moree/Roomwiz-Frontend">Roomwiz</a> - A hotel booking app.
 - 💼 <a href="https://github.com/ninad-moree/WorkNest-Frontend">WorkNest</a> - Job portal for finding and applying for jobs.
 
-#### Java
+#### Java (Spring Boot)
 - ☕ <a href="https://github.com/ninad-moree/CafeManagement-Backend">Cafe Management</a> - Cafe Mangement's backend built using java.
 - 🏨 <a href="https://github.com/ninad-moree/Roomwiz-Backend">RoomWiz</a> - Hotel Management system for booking room.
 - 🛒 <a href="https://github.com/ninad-moree/QuickCart">QucikCart</a> - E commerce application's backend.
