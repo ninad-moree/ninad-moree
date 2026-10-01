@@ -84,7 +84,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - <a href="https://github.com/ninad-moree/SE-Sem-4/blob/main/MP">Microprocessor Laboratory (MPL)</a>
 - <a href="https://github.com/ninad-moree/SE-Sem-3/tree/main/OOP%20Assignments">Object Oriented Programming Laboratory (OOP)</a>
 - <a href="https://github.com/ninad-moree/SE-Sem-3/tree/main/CG%20Assignments">Computer Graphics Laboratory (CG)</a>
-- <a href="https://github.com/ninad-moree/SE-Sem-3/tree/main/DSL%20Assignments">Fundamentals of Data Structure Laboratory (FDS)</a>
+- <a href="https://github.com/ninad-moree/SE-Sem-3/tree/main/DSL%20Assignments">Fundamentals of Data Structure Laboratory (FDSL)</a>
 
 ---
 
