@@ -248,11 +248,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 <!--- ##### GRAPH SECTION ##### --->
+<!-- CHECK AFTER IT HAS BEEN DEPLOYED
 ## 📈 Activity Graph :
 
 <a href="">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ninad-moree&bg_color=282828&color=ebdbb2&line=fe8019&point=fb4934&hide_border=true" />
 </a>
+-->
 
 <!--- ##### SOCIALS SECTION --->
 ## 🐦 Let's Connect :
